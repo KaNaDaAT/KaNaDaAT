@@ -15,7 +15,6 @@ Here are the tools and programming languages I have so far worked with:
   <a href="https://skillicons.dev">
     <img style="margin: 10px"src="https://skillicons.dev/icons?i=dotnet,cs,regex,java,postgres,mysql,cpp,py,qt,r,rust,ts,js,html,css,bootstrap,angular,php,nodejs,rollupjs,octave,md,atom,latex,visualstudio,vscode,idea,eclipse,docker,unity,xd,spring,pr,ps,postman,gradle,gitlab,github,git&perline=13"/> 
   </a>
-   <img style="margin: 10px" src="http://placehold.it/size/background-hex/foreground-hex?text=a123">
 </p>
 
 By now I had the chance to gain experience with a wide array of technologies. Currently, my primary focus is on C#, .NET, databases, and exploring game design as a hobby.
