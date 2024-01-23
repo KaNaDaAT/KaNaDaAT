@@ -9,7 +9,7 @@
 
 ## Skills 🛠️
 
-Here are the tools and programming languages I have so far worked with:
+Here are the tools and programming languages I have worked with so far:
 
 <p>
   <a href="https://skillicons.dev">
