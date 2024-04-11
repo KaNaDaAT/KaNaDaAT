@@ -19,6 +19,8 @@ Here are the tools and programming languages I have worked with so far:
 
 By now I had the chance to gain experience with a wide array of technologies. Currently, my primary focus is on C#, .NET, databases, and exploring game design as a hobby.
 
+Through crafting a custom engine, I deepened my understanding of **WebGL**. Furthermore, projects like my bachelor thesis ([Vega WebGPU renderer](https://github.com/KaNaDaAT/vega-webgpu)) acquainted me with **WebGPU**'s capabilities and applications. Excited to further explore these technologies in my upcoming master's thesis.
+
 ## My GitHub Stats📊
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -32,4 +34,6 @@ By now I had the chance to gain experience with a wide array of technologies. Cu
 
 I got into coding because of my love for Minecraft. I used to spend hours building crazy stuff with Redstone, and that got me curious about the tech side of things. So, I ended up at a computer tech school where I dived into coding, mainly with Java. That's when game development caught my eye, and I started creating small games using Unity and C#. They weren't super fancy, but I was proud of them.
 
-School introduced me to various tools and languages, but C# really clicked with me. After graduation, I jumped into an information technology bachelor's program, and now, I'm cruising through the fifth semester – almost there! Professionally, I'm knee-deep in the .NET world, working on cool projects. On the side, I'm still doing my game development thing or woking on smaller projects because, well, it's just too much fun to give up!
+Having graduated from an IT school in Vienna in 2021, I found my passion for C# among the array of tools and languages I encountered. In October 2021, I transitioned into an information technology bachelor's program, which I completed in February 2024. Now, I've embarked on my master's journey since March 2024, currently starting with the first semester, eager to delve deeper into the field. 
+
+Professionally, I'm knee-deep in the .NET world, working on cool projects. On the side, I'm still doing my game development thing or woking on smaller projects because, well, it's just too much fun to give up!
